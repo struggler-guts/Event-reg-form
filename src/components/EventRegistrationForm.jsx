@@ -1,5 +1,3 @@
-// src/components/EventRegistrationForm.jsx
-
 import React from 'react';
 import useForm from '../hooks/useForm';
 import FormField from './FormField';
