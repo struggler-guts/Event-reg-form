@@ -1,5 +1,3 @@
-// src/hooks/useForm.js
-
 import { useState, useEffect } from 'react';
 
 const useForm = (initialState, validate) => {
